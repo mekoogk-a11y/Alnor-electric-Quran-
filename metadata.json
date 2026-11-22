@@ -1,0 +1,6 @@
+{
+  "name": "مصحف النور",
+  "description": "مصحف النور الإلكتروني - Al-Noor Digital Quran: Arabic-first offline & connected Mushaf with 3D page flip, audio recitations, tafsir, memorization, adhkar, tasbih, and prayer times.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

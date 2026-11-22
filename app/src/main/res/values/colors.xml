@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="al_noor_emerald">#FF0B4F3A</color>
+    <color name="al_noor_emerald_dark">#FF073526</color>
+    <color name="al_noor_gold">#FFC9A227</color>
+    <color name="al_noor_ivory">#FFFAF6EC</color>
+    <color name="al_noor_cream">#FFF5EEDB</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
